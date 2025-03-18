@@ -27,12 +27,12 @@ To assist you on this journey, here are some recommended resources:
 
 - **Individual Projects:**  
   Each student should create a directory with their name.  
-  *Example:* `JShin/`
+  *Example:* `jongwon/`
 
-- **Assignments (Python & Machine Learning):**  
-  Create directories for each chapter or assignment topic.  
+- **Practice (Python & Machine Learning):**  
+  Create directories for each chapter or practice topic.  
   Upload your work with the following naming convention:  
-  - For assignments: `assignmentName-yourName.py` or `assignmentName-yourName.ipynb`  
+  - For practices: `practiceName-yourName.py` or `practiceName-yourName.ipynb`  
 
 ## Getting Started with Git & GitHub
 
