@@ -43,16 +43,3 @@ This repository is also intended to help you become familiar with Git and GitHub
 - Opening pull requests for code reviews
 
 Feel free to experiment and ask questions as you learn. Remember, making mistakes is a valuable part of the learning process!
-
-## Contribution Guidelines
-
-1. **Fork the Repository:**  
-   If you're planning to propose changes or work collaboratively, please fork the repository and work on your own branch.
-
-2. **Submit Pull Requests:**  
-   Once you've completed your changes, open a pull request to merge your work back into the main repository.
-
-3. **Ask for Help:**  
-   If you encounter any issues or have questions about Git, GitHub, or any assignment, don't hesitate to reach out.
-
-Happy coding, and best of luck with your internship course!
